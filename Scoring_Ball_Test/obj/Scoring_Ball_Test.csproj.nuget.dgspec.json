@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\Scoring_ball\\TestProject1\\Scoring_Ball_Test.csproj": {}
+    "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\Scoring_ball\\Scoring_Ball_Test\\Scoring_Ball_Test.csproj": {}
   },
   "projects": {
     "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\Scoring_ball\\Scoring_ball_1\\Scoring_ball_1.csproj": {
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\Scoring_ball\\TestProject1\\Scoring_Ball_Test.csproj": {
+    "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\Scoring_ball\\Scoring_Ball_Test\\Scoring_Ball_Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\Scoring_ball\\TestProject1\\Scoring_Ball_Test.csproj",
+        "projectUniqueName": "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\Scoring_ball\\Scoring_Ball_Test\\Scoring_Ball_Test.csproj",
         "projectName": "Scoring_Ball_Test",
-        "projectPath": "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\Scoring_ball\\TestProject1\\Scoring_Ball_Test.csproj",
+        "projectPath": "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\Scoring_ball\\Scoring_Ball_Test\\Scoring_Ball_Test.csproj",
         "packagesPath": "C:\\Users\\GoTiwari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\Scoring_ball\\TestProject1\\obj\\",
+        "outputPath": "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\Scoring_ball\\Scoring_Ball_Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GoTiwari\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scoring_ball_1", "Scoring_ball_1.csproj", "{76EEE214-3800-42FB-8779-A280B5B0498A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scoring_Ball_Test", "..\TestProject1\Scoring_Ball_Test.csproj", "{EAC64CB9-5444-419D-9172-E7DED2D2FDE6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scoring_Ball_Test", "..\Scoring_Ball_Test\Scoring_Ball_Test.csproj", "{20290304-DB9F-4EC7-8BE0-93C50978D765}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{76EEE214-3800-42FB-8779-A280B5B0498A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76EEE214-3800-42FB-8779-A280B5B0498A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76EEE214-3800-42FB-8779-A280B5B0498A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EAC64CB9-5444-419D-9172-E7DED2D2FDE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EAC64CB9-5444-419D-9172-E7DED2D2FDE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EAC64CB9-5444-419D-9172-E7DED2D2FDE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EAC64CB9-5444-419D-9172-E7DED2D2FDE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20290304-DB9F-4EC7-8BE0-93C50978D765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20290304-DB9F-4EC7-8BE0-93C50978D765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20290304-DB9F-4EC7-8BE0-93C50978D765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20290304-DB9F-4EC7-8BE0-93C50978D765}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
