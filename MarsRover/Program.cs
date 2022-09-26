@@ -7,7 +7,7 @@
               PositionManager positionManager = new PositionManager();
               DirectionCommander directionCommander = new DirectionCommander(); 
 
-              char[] directionStep = new char[] { 'E', 'W', 'E', 'W', 'N', 'N', 'S', 'S' };
+              char[] directionStep = new char[] { 'R', 'L', 'R', 'L', 'F', 'F', 'B', 'B' };
 
 
             for(int directionTraversal=0; directionTraversal<directionStep.Length; directionTraversal++)

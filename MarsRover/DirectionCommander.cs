@@ -15,21 +15,21 @@ namespace MarsRover
            
             switch (direction)
             {
-                case 'E':
+                case 'R':
                     
                     directionIndicator = new  LeftIndicator();
                     directionIndicator.FindDirection(positionManager);
                     break;
-                case 'W':
+                case 'L':
                     directionIndicator = new RightIndicator();
                     directionIndicator.FindDirection(positionManager);
 
                     break;
-                case 'N':
+                case 'F':
                     directionIndicator = new FrontIndicator();
                     directionIndicator.FindDirection(positionManager);
                     break;
-                case 'S':
+                case 'B':
                     directionIndicator = new ReverseIndicator();
                     directionIndicator.FindDirection(positionManager);
 
